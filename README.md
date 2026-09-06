@@ -1,2 +1,2 @@
 # aravindaswamy-profolio
-Enhance the video has for profile in professional view to keep in the personal website and to be aesthetic
+Premium personal portfolio website showcasing my journey as a Core CSE student, full-stack developer, AI/ML enthusiast, and startup founder.
