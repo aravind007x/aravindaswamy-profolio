@@ -207,7 +207,7 @@ export const certifications = [
 
 // Footer
 export const footer = {
-  name: 'ARAVINDASWMY',
+  name: 'ARAVINDASWAMY',
   title: 'Core CSE Student | Full-Stack Developer | Startup Founder',
-  copyright: `© 2026 ARAVINDASWMY. All rights reserved.`
+  copyright: `© 2026 ARAVINDASWAMY. All rights reserved.`
 }

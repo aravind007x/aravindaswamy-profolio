@@ -179,7 +179,7 @@ export default function Hero() {
               >
                 <img
                   src={profileImage}
-                  alt="ARAVINDASWMY"
+                  alt="ARAVINDASWAMY"
                   className="w-full h-full object-cover"
                   onError={(e) => {
                     e.target.style.display = 'none'
