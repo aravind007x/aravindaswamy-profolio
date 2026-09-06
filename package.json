@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://aravind007x.github.io/aravindaswamy-profolio/",
+  "homepage": "https://aravindaswamy.dev",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
