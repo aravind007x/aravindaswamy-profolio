@@ -1,6 +1,6 @@
 // Personal profile data
 export const profile = {
-  name: 'ARAVINDASWMY',
+  name: 'ARAVINDASWAMY',
   title: 'Core CSE Student',
   subtitle: 'Full-Stack Developer',
   role: 'Startup Founder',

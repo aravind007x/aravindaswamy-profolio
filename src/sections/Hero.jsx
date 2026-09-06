@@ -2,8 +2,8 @@ import { motion } from 'framer-motion'
 import { ChevronDown, Github, Linkedin, Instagram, Twitter, Mail } from 'lucide-react'
 import { profile } from '../data/profile'
 
-// Image path - place profile.jpg in the public folder
-const profileImage = '/profile.jpg'
+// Keep public assets working when deployed under Vite's configured base path.
+const profileImage = `${import.meta.env.BASE_URL}profile.jpg`
 
 export default function Hero() {
   const containerVariants = {
